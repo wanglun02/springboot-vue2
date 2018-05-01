@@ -190,6 +190,9 @@ Webpack提供了一整套前端工程自动化的解决方案
         cd springboot_vue/frontend
 
         npm install 
+        
+ ## 可能报错，重新安装下webpack-dev-server
+    npm uninstall webpack-dev-server，在安装这个npm i webpack-dev-server@2.9.7
 
 ### 使用
 
